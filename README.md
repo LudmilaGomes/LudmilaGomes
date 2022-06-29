@@ -4,8 +4,7 @@
 ### - Atualmente cursando Engenharia de Computação na UFPB
 ### - Já vistos: C, C++
 ### - Buscando informações sobre: Python, Java, Design, Cybersegurança...
-###
-###
+
 <div>
 <a href="https://github.com/LudmilaGomes">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudmilaGomes&layout=compact&langs_count=7&theme=dracula"/>
