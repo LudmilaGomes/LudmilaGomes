@@ -12,7 +12,9 @@
 </div>
 
 
-<i class="devicon-github-original"></i>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          
           
   
 <!--
