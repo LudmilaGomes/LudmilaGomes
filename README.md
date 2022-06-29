@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá, sou Ludmila Gomes,
+### E seja bem-vindo(a) ao meu perfil.
+###
+### - Atualmente cursando Engenharia de Computação na UFPB
+### - Já vistos: C, C++
+### - Buscando informações sobre: Python, Java, Design, Cybersegurança...
 
 <!--
 **LudmilaGomes/LudmilaGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
