@@ -3,7 +3,7 @@
 ###
 ### - Atualmente cursando Engenharia de Computação na UFPB
 ### - Já vistos: C, C++
-### - Buscando informações sobre: Python, Java, Design, Cybersegurança...
+### - Buscando informações sobre: Python, Java, Cybersegurança...
 
 <div>
 <a href="https://github.com/LudmilaGomes">
