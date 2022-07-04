@@ -1,7 +1,7 @@
 ##### Olá, sou Ludmila Gomes,
-## E seja bem-vindo(a) ao meu perfil.
-###
-## - Atualmente cursando Engenharia de Computação na UFPB
+#### E seja bem-vindo(a) ao meu perfil.
+
+####### - Atualmente cursando Engenharia de Computação na UFPB
 ## - Já vistos: C, C++
 ## - Buscando informações sobre: Python, Java, Cybersegurança...
 
