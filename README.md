@@ -4,7 +4,7 @@ Sou Ludmila Gomes, atualmente estou cursando Engenharia de Computação na Unive
  - Já vistos: C, C++
  - Buscando informações sobre: Python, Java, Cybersegurança
 
-[![Ludmila's GitHub stats](https://github-readme-stats.vercel.app/api?username=LudmilaGomes)](https://github.com/LudmilaGomes/github-readme-stats)
+[![Ludmila's GitHub stats](https://github-readme-stats.vercel.app/api?username=LudmilaGomes)](https://github.com/LudmilaGomes/github-readme-stats&show_icons=true&theme=radical)
 
 <!--
 
