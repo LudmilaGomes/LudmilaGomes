@@ -3,7 +3,7 @@
 Sou Ludmila Gomes, atualmente estou cursando Engenharia de Computação na Universidade Federal da Paraíba.
  - Já vistos: C, C++
  - Estudando: Python
- - Buscando informações sobre: Java, Cybersegurança
+ - Buscando informações sobre: Java, Cybersegurança, Desenvolvimento Web
 
 <div align="center">
   <a href="https://github.com/LudmilaGomes">
