@@ -3,7 +3,7 @@
 Sou Ludmila Gomes, atualmente estou cursando Engenharia de Computação na Universidade Federal da Paraíba.
  - Já vistos: C, C++
  - Estudando: Python, HTML, CSS
- - Quero aprender: Java, Cybersegurança, Desenvolvimento Web, Inteligência Artificial, Otimização, Desenvolvimento de Jogos
+ - Quero aprender: Java, Cybersegurança, Desenvolvimento Web, Desenvolvimento de Jogos
  - Adoro livros, jogos, desenho, música...
 
 <div align="center">
