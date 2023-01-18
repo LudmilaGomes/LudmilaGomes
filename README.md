@@ -6,12 +6,12 @@ Sou Ludmila Gomes, atualmente estou cursando Engenharia de Computação na Unive
  - Quero aprender: Java, Cybersegurança, Desenvolvimento Web, Desenvolvimento de Jogos
  - Adoro livros, jogos, desenho, música...
 
+<!--
+
 <div align="center">
   <a href="https://github.com/LudmilaGomes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LudmilaGomes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
-
-<!--
 
 ![Ludmila's GitHub stats](https://github-readme-stats.vercel.app/api?username=LudmilaGomes&show_icons=true&theme=cobalt)
 
