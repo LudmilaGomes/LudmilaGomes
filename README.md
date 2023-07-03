@@ -50,9 +50,16 @@
 
 #
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludmilagomes&theme=date_night&show_icons=true&locale=en&layout=compact" alt="ludmilagomes" height="300" width="350"/>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ludmilagomes&theme=date_night&show_icons=true&locale=en" alt="ludmilagomes" height="300" width="420"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludmilagomes&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="ludmilagomes" height="300" width="350"/>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ludmilagomes&theme=github_dark&show_icons=true&locale=en" alt="ludmilagomes" height="300" width="420"/>
 </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&repo=LP2)](https://github.com/LudmilaGomes/LP2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&repo=URI)](https://github.com/LudmilaGomes/URI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&repo=C)](https://github.com/LudmilaGomes/C)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&repo=Python)](https://github.com/LudmilaGomes/Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&repo=Projeto-ED)](https://github.com/LudmilaGomes/Projeto-ED)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&repo=Cpp-OO)](https://github.com/LudmilaGomes/Cpp-OO)
 
 <!--
 
