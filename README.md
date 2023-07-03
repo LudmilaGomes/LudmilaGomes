@@ -45,7 +45,6 @@
   href="https://instagram.com/ludmila.gomes490" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="ludmila.gomes490" height="30" width="40"/>
 </a>
-<a> </a>
 </p>
 
 #
