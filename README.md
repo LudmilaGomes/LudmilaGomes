@@ -54,12 +54,16 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ludmilagomes&theme=github_dark&show_icons=true&locale=en" alt="ludmilagomes" height="300" width="420"/>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&repo=LP2)](https://github.com/LudmilaGomes/LP2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&repo=URI)](https://github.com/LudmilaGomes/URI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&repo=C)](https://github.com/LudmilaGomes/C)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&repo=Python)](https://github.com/LudmilaGomes/Python)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&repo=Projeto-ED)](https://github.com/LudmilaGomes/Projeto-ED)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&repo=Cpp-OO)](https://github.com/LudmilaGomes/Cpp-OO)
+<p align="center"> 
+  
+</p>
+
+(https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&&theme=github_darkrepo=LP2)](https://github.com/LudmilaGomes/LP2)
+(https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&&theme=github_darkrepo=URI)](https://github.com/LudmilaGomes/URI)
+(https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&&theme=github_darkrepo=C)](https://github.com/LudmilaGomes/C)
+(https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&&theme=github_darkrepo=Python)](https://github.com/LudmilaGomes/Python)
+(https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&&theme=github_darkrepo=Projeto-ED)](https://github.com/LudmilaGomes/Projeto-ED)
+(https://github-readme-stats.vercel.app/api/pin/?username=ludmilagomes&&theme=github_darkrepo=Cpp-OO)](https://github.com/LudmilaGomes/Cpp-OO)
 
 <!--
 
