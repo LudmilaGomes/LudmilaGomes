@@ -26,7 +26,7 @@
 <p align="left">
 <a 
   href="https://www.linkedin.com/in/ludmila-gomes-74803023a/" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ludmila gomes"/>
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ludmila gomes" height="30" width="40"/>
 </a>
 <a 
   href="https://instagram.com/ludmila.gomes490" target="blank">
