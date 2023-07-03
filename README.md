@@ -22,6 +22,7 @@
 
 ### ⚡ I love books, games, drawing, music...
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ludmila-gomes-74803023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ludmila gomes" height="30" width="40" /></a>
 <a href="https://instagram.com/ludmila.gomes490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ludmila.gomes490" height="30" width="40" /></a>
