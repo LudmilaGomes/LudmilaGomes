@@ -2,21 +2,21 @@
 ### My name is Ludmila Gomes and I am currently graduating in Computer Engineering at Universidade Federal da Paraíba
 
 ### - 💻 Technologies and Tools
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py" />
   </a>
 </p>
 
 ### - 📖 I'm Learning
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,nodejs" />
   </a>
 </p>
 
 ### - 📘 What I want to learn
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,linux"/>
   </a>
@@ -34,7 +34,7 @@
 ###  
 <p> <a> </a> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludmilagomes&theme=date_night&show_icons=true&locale=en&layout=compact" alt="ludmilagomes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ludmilagomes&theme=date_night&show_icons=true&locale=en" alt="ludmilagomes" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ludmilagomes&theme=date_night&show_icons=true&locale=en" alt="ludmilagomes" /></p>
 
 <!--
 
