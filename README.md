@@ -4,21 +4,21 @@
 ### - 💻 Technologies and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py" height="30" width="40"/>
   </a>
 </p>
 
 ### - 📖 I'm Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,nodejs" />
+    <img src="https://skillicons.dev/icons?i=unity,nodejs" height="30" width="40"/>
   </a>
 </p>
 
 ### - 📘 What I want to learn
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux"/>
+    <img src="https://skillicons.dev/icons?i=git,linux" height="30" width="40"/>
   </a>
 </p>
 
