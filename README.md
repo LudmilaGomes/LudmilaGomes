@@ -52,7 +52,7 @@
 ###  
 <p> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludmilagomes&theme=date_night&show_icons=true&locale=en&layout=compact" alt="ludmilagomes" height="300" width="320"/>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ludmilagomes&theme=date_night&show_icons=true&locale=en" alt="ludmilagomes" height="300" width="350"/>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ludmilagomes&theme=date_night&show_icons=true&locale=en" alt="ludmilagomes" height="300" width="370"/>
 </p>
 
 <!--
