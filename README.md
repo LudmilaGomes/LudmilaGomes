@@ -2,12 +2,17 @@
 ### My name is Ludmila Gomes and I am currently graduating in Computer Engineering at Universidade Federal da Paraíba
 
 ### - 💻 Technologies and Tools
+<p align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+<!--
 <p align="left"> 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a> </a>
 </p>
+-->
 
 ### - 📖 I'm Learning
 <p align="left">
@@ -33,9 +38,9 @@
 ### - ⚡ I love books, games, drawing, music...
 
 ###  
-<p> <a> </a> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludmilagomes&theme=neon&show_icons=true&locale=en&layout=compact" alt="ludmilagomes" /></p>
+<p> <a> </a> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludmilagomes&theme=date_night&show_icons=true&locale=en&layout=compact" alt="ludmilagomes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ludmilagomes&theme=neon&show_icons=true&locale=en" alt="ludmilagomes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ludmilagomes&theme=date_night&show_icons=true&locale=en" alt="ludmilagomes" /></p>
 
 <!--
 
