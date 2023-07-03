@@ -1,12 +1,42 @@
+## 👋 Hey! Welcome to my Github profile
+# My name is Ludmila Gomes and I am currently graduating in Computer Engineering at Universidade Federal da Paraíba
+
+# 💻 Technologies and Tools
+<p align="left"> 
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
+
+# 📚 I'm Learning
+<p align="left">
+ <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+</p>
+
+# 📚 What I want to learn
+<p align="left">
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+</p>
+
+# ⚡ I love books, games, drawing, music...
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ludmila-gomes-74803023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ludmila gomes" height="30" width="40" /></a>
+<a href="https://instagram.com/ludmila.gomes490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ludmila.gomes490" height="30" width="40" /></a>
+</p>
+
+<!--
+
 ### Bem-vindo(a) ao meu perfil.
 
 Sou Ludmila Gomes, atualmente estou cursando Engenharia de Computação na Universidade Federal da Paraíba.
- - Já vistos: C, C++
- - Estudando: Python, JavaScript, NodeJS
- - Quero aprender: Java, Cybersegurança, Desenvolvimento Web, Desenvolvimento de Jogos
+ - Já vistos: C, C++, Python, JavaScript, NodeJS, ...
+ - Estudando: desenvolvimento de jogos, backend, inteligência artificial
  - Adoro livros, jogos, desenho, música...
 
-<!--
+
 
 <div align="center">
   <a href="https://github.com/LudmilaGomes">
