@@ -4,21 +4,33 @@
 ### - 💻 Technologies and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=c,cpp,py" height="30" width="40"/>
+    <img align="center" src="https://skillicons.dev/icons?i=c" height="30" width="40"/>
+  </a>
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=cpp" height="30" width="40"/>
+  </a>
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=py" height="30" width="40"/>
   </a>
 </p>
 
 ### - 📖 I'm Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=unity,nodejs"/>
+    <img align="center" src="https://skillicons.dev/icons?i=unity" height="30" width="40"/>
+  </a>
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=nodejs" height="30" width="40"/>
   </a>
 </p>
 
 ### - 📘 What I want to learn
 <p align="left">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=git,linux"/>
+    <img align="center" src="https://skillicons.dev/icons?i=git" height="30" width="40"/>
+  </a>
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=linux" height="30" width="40"/>
   </a>
 </p>
 
