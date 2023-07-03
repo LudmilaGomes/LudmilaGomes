@@ -33,9 +33,9 @@
 </p>
 
 ###  
-<p> <a> </a> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludmilagomes&show_icons=true&locale=en&layout=compact" alt="ludmilagomes" /></p>
+<p> <a> </a> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludmilagomes&theme=neon&show_icons=true&locale=en&layout=compact" alt="ludmilagomes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ludmilagomes&show_icons=true&locale=en" alt="ludmilagomes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ludmilagomes&theme=neon&show_icons=true&locale=en" alt="ludmilagomes" /></p>
 
 <!--
 
