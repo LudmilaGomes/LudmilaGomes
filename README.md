@@ -11,14 +11,14 @@
 ### - 📖 I'm Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=unity,nodejs" height="30" width="40"/>
+    <img align="center" src="https://skillicons.dev/icons?i=unity,nodejs"/>
   </a>
 </p>
 
 ### - 📘 What I want to learn
 <p align="left">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=git,linux" height="30" width="40"/>
+    <img align="center" src="https://skillicons.dev/icons?i=git,linux"/>
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 <p align="left">
 <a 
   href="https://www.linkedin.com/in/ludmila-gomes-74803023a/" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ludmila gomes" height="30" width="40"/>
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ludmila gomes"/>
 </a>
 <a 
   href="https://instagram.com/ludmila.gomes490" target="blank">
