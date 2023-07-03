@@ -4,29 +4,35 @@
 ### - 💻 Technologies and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py" height="30" width="40"/>
+    <img align="center" src="https://skillicons.dev/icons?i=c,cpp,py" height="30" width="40"/>
   </a>
 </p>
 
 ### - 📖 I'm Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,nodejs" height="30" width="40"/>
+    <img align="center" src="https://skillicons.dev/icons?i=unity,nodejs" height="30" width="40"/>
   </a>
 </p>
 
 ### - 📘 What I want to learn
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux" height="30" width="40"/>
+    <img align="center" src="https://skillicons.dev/icons?i=git,linux" height="30" width="40"/>
   </a>
 </p>
 
 ### - 📬 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/ludmila-gomes-74803023a/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ludmila gomes" height="30" width="40" /></a>
-<a href="https://instagram.com/ludmila.gomes490" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="ludmila.gomes490" height="30" width="40" /></a>
- <a> </a>
+<a 
+  href="https://www.linkedin.com/in/ludmila-gomes-74803023a/" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ludmila gomes" height="30" width="40"/>
+</a>
+<a 
+  href="https://instagram.com/ludmila.gomes490" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="ludmila.gomes490" height="30" width="40"/>
+</a>
+<a> </a>
 </p>
 
 ### - ⚡ I love books, games, drawing, music...
