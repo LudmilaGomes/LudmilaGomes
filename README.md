@@ -32,6 +32,12 @@
   <a href="https://skillicons.dev">
     <img align="center" src="https://skillicons.dev/icons?i=linux" height="30" width="40"/>
   </a>
+    <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=ai" height="30" width="40"/>
+  </a>
+    <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=js" height="30" width="40"/>
+  </a>
 </p>
 
 ### - ⚡ I love books, games, drawing, music...
