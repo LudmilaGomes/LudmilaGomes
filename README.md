@@ -22,20 +22,22 @@
   <a href="https://skillicons.dev">
     <img align="center" src="https://skillicons.dev/icons?i=nodejs" height="30" width="40"/>
   </a>
+  </a>
+    <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=ai" height="30" width="40"/>
+  </a>
 </p>
 
-### - 📘 What I want to learn
+### - 📘 What I want to learn: artificial intelligence, cyber security, ...
+<!--
 <p align="left">
   <a href="https://skillicons.dev">
     <img align="center" src="https://skillicons.dev/icons?i=git" height="30" width="40"/>
   </a>
   <a href="https://skillicons.dev">
     <img align="center" src="https://skillicons.dev/icons?i=linux" height="30" width="40"/>
-  </a>
-    <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=ai" height="30" width="40"/>
-  </a>
 </p>
+-->
 
 ### - ⚡ I love books, games, drawing, music...
 ### - 📬 Connect with me
