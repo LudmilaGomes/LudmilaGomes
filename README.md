@@ -16,9 +16,11 @@
 
 ### - 📖 I'm learning
 <p align="left">
+  <!--
   <a href="https://skillicons.dev">
     <img align="center" src="https://skillicons.dev/icons?i=unity" height="30" width="40"/>
   </a>
+  -->
   <a href="https://skillicons.dev">
     <img align="center" src="https://skillicons.dev/icons?i=nodejs" height="30" width="40"/>
   </a>
