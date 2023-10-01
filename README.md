@@ -1,4 +1,5 @@
-## 👋 Hey! Welcome to my Github profile
+👋 Hey! Welcome to my Github profile
+##
 My name is Ludmila Gomes and I am currently graduating in Computer Engineering at Universidade Federal da Paraíba (Brasil)
 
 💻 Technologies and tools
