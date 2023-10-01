@@ -42,6 +42,7 @@ My name is Ludmila Gomes and I am currently graduating in Computer Engineering a
 -->
 
 ⚡ I love books, games, drawing, music...
+
 📬 Connect with me
 <p align="left">
 <a 
