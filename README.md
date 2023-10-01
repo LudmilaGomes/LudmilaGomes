@@ -30,7 +30,7 @@ My name is Ludmila Gomes and I am currently graduating in Computer Engineering a
   </a>
 </p>
 
- - 📘 What I want to learn: artificial intelligence, cyber security, ...
+### - 📘 What I want to learn: artificial intelligence, cyber security, ...
 <!--
 <p align="left">
   <a href="https://skillicons.dev">
