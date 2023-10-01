@@ -1,5 +1,5 @@
 ## 👋 Hey! Welcome to my Github profile
-### My name is Ludmila Gomes and I am currently graduating in Computer Engineering at Universidade Federal da Paraíba (Brasil)
+My name is Ludmila Gomes and I am currently graduating in Computer Engineering at Universidade Federal da Paraíba (Brasil)
 
 ### - 💻 Technologies and tools
 <p align="left">
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-### - 📘 What I want to learn: artificial intelligence, cyber security, ...
+ - 📘 What I want to learn: artificial intelligence, cyber security, ...
 <!--
 <p align="left">
   <a href="https://skillicons.dev">
