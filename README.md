@@ -13,15 +13,20 @@ My name is Ludmila Gomes and I am currently graduating in Computer Engineering a
   <a href="https://skillicons.dev">
     <img align="center" src="https://skillicons.dev/icons?i=py" height="30" width="40"/>
   </a>
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=js" height="30" width="40"/>
+  </a>
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=nodejs" height="30" width="40"/>
+  </a>
 </p>
 
+<!--
 📖 I'm learning
 <p align="left">
-  <!--
   <a href="https://skillicons.dev">
     <img align="center" src="https://skillicons.dev/icons?i=unity" height="30" width="40"/>
   </a>
-  -->
   <a href="https://skillicons.dev">
     <img align="center" src="https://skillicons.dev/icons?i=nodejs" height="30" width="40"/>
   </a>
@@ -30,6 +35,7 @@ My name is Ludmila Gomes and I am currently graduating in Computer Engineering a
     <img align="center" src="https://skillicons.dev/icons?i=ai" height="30" width="40"/>
   </a>
 </p>
+-->
 
 📘 What I want to learn: artificial intelligence, cyber security, ...
 <!--
