@@ -68,6 +68,8 @@ My name is Ludmila Gomes and I am currently graduating in Computer Engineering a
 &nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ludmilagomes&theme=github_dark&show_icons=true&locale=en" alt="ludmilagomes" height="300" width="395"/>
 </p>
 
+![Snake animation](https://github.com/LudmilaGomes/LudmilaGomes/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 
 ### Bem-vindo(a) ao meu perfil.
