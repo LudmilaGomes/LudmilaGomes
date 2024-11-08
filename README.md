@@ -37,7 +37,9 @@ My name is Ludmila Gomes and I am currently graduating in Computer Engineering a
 </p>
 -->
 
-📘 What I want to learn: artificial intelligence, cyber security, ...
+📖 Currently working on research related to electric vehicles, energy consumption in vehicles, and the use of AI in soft sensors
+
+📘 What I want to learn: (more about) python, machine/deep learning, mlops, C#, .Net Framework
 <!--
 <p align="left">
   <a href="https://skillicons.dev">
