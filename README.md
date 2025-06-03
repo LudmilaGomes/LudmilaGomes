@@ -37,9 +37,9 @@ My name is Ludmila Gomes and I am currently graduating in Computer Engineering a
 </p>
 -->
 
-📖 Currently working on research related to electric vehicles, energy consumption in vehicles, and the use of AI in soft sensors.
+📖 Currently working on research related to vehicles and the use of AI in soft sensors, computer vision to detect patterns in vehicles and personal projects to learn more about AI, backend and DevOps.
 
-📘 What I want to learn: (more about) Python, Machine Learning, MLOps, Web Development
+📘 Learning: (more about) Python, Machine Learning, MLOps, Web Development
 <!--
 <p align="left">
   <a href="https://skillicons.dev">
@@ -50,7 +50,7 @@ My name is Ludmila Gomes and I am currently graduating in Computer Engineering a
 </p>
 -->
 
-⚡ I love books, games, drawing, music...
+⚡ I love to study and learn new things about AI, history, philosophy, music and art; I'm always reading, playing or listening something
 
 📬 Connect with me
 <p align="left">
