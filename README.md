@@ -37,9 +37,9 @@ My name is Ludmila Gomes and I am currently graduating in Computer Engineering a
 </p>
 -->
 
-📖 Currently working on research related to vehicles and the use of AI in soft sensors, computer vision to detect patterns in vehicles and personal projects to learn more about AI, backend and DevOps.
+📖 Currently working on research related to vehicles and the use of AI in soft sensors, computer vision to detect patterns in vehicles and personal projects to learn more about AI, backend and LLMs.
 
-📘 Learning: (more about) Python, Machine Learning, MLOps, Web Development
+📘 Learning: (more about) Machine Learning, LLMs and VLMs, Web Development
 <!--
 <p align="left">
   <a href="https://skillicons.dev">
